@@ -18,8 +18,3 @@ button {
     cursor: pointer;
     border: none;
 }
-.visually-hidden {
-    clip-path: inset(100%);
-        clip: rect(0 0 0 0);
-        overflow: hidden;
-}
