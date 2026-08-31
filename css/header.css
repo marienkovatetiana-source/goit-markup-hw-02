@@ -30,7 +30,7 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-contact-item:hover,
-.header-contact-item:focus {
+.header-contact-item a:hover,
+.header-contact-item a:focus {
   color: #404bbf;
 }
