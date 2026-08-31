@@ -30,7 +30,7 @@
         letter-spacing: 0.02em;
         color: #434455;
     }
-        .header-contacts-list:hover, 
-        .header-contacts-list:focus {
+        .header-contact-list:hover, 
+        .header-contact-list:focus {
             color: #404bbf;
         }

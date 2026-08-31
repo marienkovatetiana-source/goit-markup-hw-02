@@ -1,5 +1,4 @@
 .portfolio-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -8,7 +7,7 @@
 .portfolio-media {
     background-color: #ffffff;
 }
-.portfolio-content .portfolio-title {
+.portfolio-content .portfolio-item-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
